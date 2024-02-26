@@ -19,8 +19,6 @@ What I offer:
 - As the sole developer, I offer the technical expertice to ensure a project is done right the first time.
 
 ---
----
----
 # Outline
 
 - introduction
