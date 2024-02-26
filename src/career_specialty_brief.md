@@ -12,7 +12,7 @@ In my workplace, my title is "Software Developer"
 ### What do I do?
 > I am the sole developer responsible for designing, forging, testing, and maintaining advanced tools for DNEA's, TNA's, TAR's, and linguists. 
 ### What am I about to talk about?
-[ ] TODO
+- [ ] TODO
 
 # Specialty Description
 What I offer:
