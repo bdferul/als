@@ -7,6 +7,7 @@ SrA Brenton Ferullo
 ### What is my specialty?
 1D7x1P - Data Operator 
 > Supervises and performs as computer analyst, coder, tester and manager in the design, development, maintenance, testing, configuration management, and documentation of application software systems, client-server, and web-enabled software and relational database systems critical to warfighting capabilities.
+
 BUT
 In my workplace, my title is "Software Developer"
 ### What do I do?
